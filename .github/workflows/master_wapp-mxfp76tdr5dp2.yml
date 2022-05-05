@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'wapp-mxfp76tdr5dp2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AF8701A0B924B89AAD49FBFCEF43E6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD0434A52785476D86BFEC3A6EB938BF }}
           package: .
